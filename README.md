@@ -1,0 +1,1 @@
+# Product Innovation Engine Skill\n\nThis repository contains the Product Innovation Engine skill for Manus in both Chinese and English.\n\n- [Chinese Version (中文版)](./zh/product-innovation-engine/SKILL.md)\n- [English Version (英文版)](./en/product-innovation-engine/SKILL.md)
