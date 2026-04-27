@@ -50,6 +50,12 @@ Your AI assistant will then proceed through the 7-step workflow, asking clarifyi
 - [Prompt Library (提示词库)](./references/prompts_and_templates.md)
 - [Checklists (检查清单)](./references/checklists.md)
 
+## 📚 Case Studies (实战案例)
+
+Explore real-world applications of the Product Innovation Engine:
+
+- **[3D Printing Industry Innovation Report (V9.2)](./examples/3d-printing-innovation-report.md)**: A deep dive into the 2024-2026 3D printing market, demonstrating the power of **5 Whys deep derivation** and **data transparency (V9.2)**. It uncovers the shift from "machine stories" to "repeatable outcomes" and proposes a roadmap for AI-driven closed-loop quality control.
+
 ## 🤝 Contributing
 
 We welcome contributions to enhance the Product Innovation Engine Skill! Whether it's improving existing prompts, adding new methodologies, or translating into more languages, your input is valuable. Please refer to our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to get involved.
