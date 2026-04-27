@@ -1,6 +1,6 @@
 # Product Innovation Engine Skill
 
-This repository contains the **Product Innovation Engine Skill**, designed to empower various AI assistants in transforming fragmented user expressions into high-value product insights. It provides a structured methodology, prompt library, and execution workflow for needs discovery and product innovation.
+This repository contains the **Product Innovation Engine Skill**, designed to empower various AI assistants in extracting customer needs from specific scenarios and transforming them into high-value product insights. It provides a structured methodology, prompt library, and execution workflow for needs discovery and product innovation.
 
 ## Key Features:
 
