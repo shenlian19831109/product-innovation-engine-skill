@@ -55,6 +55,7 @@ Your AI assistant will then proceed through the 7-step workflow, asking clarifyi
 Explore real-world applications of the Product Innovation Engine:
 
 - **[3D Printing Industry Innovation Report (V9.2)](./zh/product-innovation-engine/cases/3d-printing-innovation-report.md)**: A deep dive into the 2024-2026 3D printing market, demonstrating the power of **5 Whys deep derivation** and **data transparency (V9.2)**. It uncovers the shift from "machine stories" to "repeatable outcomes" and proposes a roadmap for AI-driven closed-loop quality control.
+- **[Embodied AI Robotics Innovation Report (V9.2)](./zh/product-innovation-engine/cases/embodied-ai-innovation-report.md)**: A comprehensive analysis of the 2025-2026 embodied AI market. It explores the transition from "demo-driven" to "value-driven" innovation, the rise of **VLA models**, and the roadmap for general-purpose household robots.
 
 ## 🤝 Contributing
 
